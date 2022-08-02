@@ -1,0 +1,118 @@
+{
+  "radios": [
+    {
+      "id": 1,
+      "name": "92.7",
+      "tagline": "Suno Sunao, Life Banao!",
+      "color": "0xffa11431",
+      "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+      "url": "http://sc-bb.1.fm:8017/;",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5df4c18876369.562d0d4bd94cf.jpg",
+      "lang": "Hindi",
+      "category": "pop",
+      "disliked": false,
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "98.3",
+      "tagline": "Gaano Ka Sweet Dish",
+      "color": "0xff221420",
+      "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+      "url": "http://peridot.streamguys.com:7150/Mirchi",
+      "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+      "image": "https://static.toiimg.com/thumb/msid-72350288,width-800,height-600,resizemode-75,imgsize-302210,pt-32,y_pad-40/72350288.jpg",
+      "lang": "Hindi",
+      "disliked": false,
+      "category": "Pop Player",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "102",
+      "tagline": "Play On!",
+      "color": "0xff04080b",
+      "desc": "Playing music regularly will physically alter your brain structure.",
+      "url": "http://node-14.zeno.fm/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABa7Pm__WhrF8jIJ36of_AC5C-TeMcqPiHC5BJB1j1JxkowiWAyQ",
+      "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+      "image": "https://www.theknotnews.com/wp-content/uploads/2017/02/Fifty-Shades-Poster.jpg",
+      "lang": "English",
+      "disliked": false,
+      "category": "hip-hop",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "104",
+      "tagline": "Retro Bollywood",
+      "color": "0xff066c53",
+      "desc": "Retro Bollywood",
+      "url": "http://stream-29.zeno.fm/u0hrd3xkzhhvv?zs=ZfrH_hq0TpanL3-A10vjdQ",
+      "icon": "https://radiosindia.com/images/foxfm.jpg",
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5df4c18876369.562d0d4bd94cf.jpg",
+      "lang": "English",
+      "category": "hip-hop",
+      "disliked": false,
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "95",
+      "tagline": "Bollywood Hits",
+      "color": "0xff0d487d",
+      "desc": "",
+      "url": "https://stream-28.zeno.fm/8ty8szwpwfeuv?zs=P7jkbeKgQQu6gnLaAZKbhg",
+      "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+      "image": "https://www.google.com/search?q=bollywood+songs+logo&tbm=isch&hl=en&sa=X&ved=2ahUKEwi63tir7KD5AhXxz6ACHfvAAc4QrNwCKAB6BQgBEJEC&biw=1263&bih=544#imgrc=U33Dgnduy30t7M",
+      "lang": "English",
+      "category": "Old Hits",
+      "disliked": false,
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "91.4",
+      "tagline": "Today's Hits",
+      "color": "0xff27383e",
+      "desc": "",
+      "url": "https://cp11.serverse.com/proxy/foxfm/stream/;stream.mp3",
+      "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+      "image": "https://i.pinimg.com/originals/7f/f6/13/7ff613ed815f1eb56a90794ec64eecfe.jpg",
+      "lang": "English",
+      "category": "rock",
+      "disliked": false,
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "93",
+      "tagline": "Bhakti Songs",
+      "color": "0xffa06a37",
+      "desc": "The brain responds to music the same way it responds to something that you eat.",
+      "url": "http://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2gJ0aVk-TrZFdR_GU6Y_rbgogNg8BIRQJw&usqp=CAU",
+      "lang": "Hindi",
+      "category": "pop",
+      "disliked": false,
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "91.1",
+      "tagline": "Radio City Gazal",
+      "color": "0xff090909",
+      "desc": "Your heartbeat changes to mimics the music you listen to.",
+      "url": "https://stream-23.zeno.fm/bdpe99uzrf9uv?zs=-US3FBcESJq0lYelctmFoA",
+      "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-zClYEWcIRETCVAHuBfAqY35VphfOOnSuQ&usqp=CAU",
+      "lang": "Hindi",
+      "category": "classic",
+      "disliked": false,
+      "order": 8
+    }
+  ]
+
+}
+

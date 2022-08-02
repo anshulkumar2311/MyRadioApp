@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196984078404",
+    "project_id": "radio-app-146a5",
+    "storage_bucket": "radio-app-146a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196984078404:android:139743a8d56b7e8f3b3c11",
+        "android_client_info": {
+          "package_name": "com.example.radio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196984078404-e7ka2osvj78vshvog1q7jv0mjh28ht08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radio_app",
+            "certificate_hash": "2954406c8258152dfa8642f7e34dde3d45dd243d"
+          }
+        },
+        {
+          "client_id": "196984078404-cdrcv56shfjq19n5v4kv0shr5gn3q3f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkS3V9F_V68jczzPD48xJhh3I10uFmTFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196984078404-cdrcv56shfjq19n5v4kv0shr5gn3q3f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
